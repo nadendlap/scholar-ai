@@ -1,0 +1,17 @@
+{
+  "name": "ScholarAI",
+  "short_name": "ScholarAI",
+  "description": "AI-powered personalized learning for WCPSS high school students.",
+  "version": "1.0.0",
+  "bundle_id": "com.scholarai.wcpss",
+  "category": "Education",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#0B0E1E",
+  "background_color": "#0B0E1E",
+  "apple_mobile_web_app_status_bar_style": "black-translucent"
+}
